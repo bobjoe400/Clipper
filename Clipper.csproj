@@ -7,4 +7,18 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Images\1478159339267_20161124_190219.jpg" />
+    <None Remove="Images\1484196848179_20170112_133934.jpg" />
+    <None Remove="Images\searchBarText.png" />
+    <None Remove="Images\searchXbtn.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\1478159339267_20161124_190219.jpg" />
+    <Resource Include="Images\1484196848179_20170112_133934.jpg" />
+    <Resource Include="Images\searchBarText.png" />
+    <Resource Include="Images\searchXbtn.png" />
+  </ItemGroup>
+
 </Project>
